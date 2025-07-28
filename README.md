@@ -1,4 +1,17 @@
 # Breakthrough Full Stack Journey
 
-This repo contains projects from my FreeCodeCamp-based Full Stack Learning Track.  
-✅ HTML - ✅ Cat Photo App (Steps 1–71 Completed)
+---
+
+### ✅ HTML Projects
+
+📸 **Cat Photo App**  
+FreeCodeCamp project to practice basic HTML elements and structure.
+
+---
+
+### ✅ CSS Projects
+
+🍽️ **Café Menu**  
+Styled a restaurant menu using CSS selectors, fonts, colors, and spacing.
+
+---
