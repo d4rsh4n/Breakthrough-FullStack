@@ -1,17 +1,14 @@
-# Breakthrough Full Stack Journey
+# Cafe Menu Project - FreeCodeCamp
+
+This is a simple Cafe Menu built using HTML and CSS as part of FreeCodeCamp's Responsive Web Design course.
+
+## Files
+- `index.html`: Main HTML structure
+- `styles.css`: External CSS for layout and styling
+
+## Preview
+![Cafe Menu Screenshot](https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg)
 
 ---
 
-### ✅ HTML Projects
-
-📸 **Cat Photo App**  
-FreeCodeCamp project to practice basic HTML elements and structure.
-
----
-
-### ✅ CSS Projects
-
-🍽️ **Café Menu**  
-Styled a restaurant menu using CSS selectors, fonts, colors, and spacing.
-
----
+Built by Darshan SP as part of #ProjectBreakthrough2026 🌏💻
