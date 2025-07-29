@@ -1,6 +1,6 @@
 # Cafe Menu Project - FreeCodeCamp
 
-This is a simple Cafe Menu built using HTML and CSS as part of FreeCodeCamp's Responsive Web Design course.
+This is a simple Cafe Menu built using HTML and CSS as part of FreeCodeCamp's Responsive Web Design course..
 
 ## Files
 - `index.html`: Main HTML structure
